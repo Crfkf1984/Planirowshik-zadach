@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.1">
+	<Item id="8f807dae-0b6e-48ef-a64b-330175606be0">
+		<Name>Январь</Name>
+		<Code>000000001</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="14980359-947b-434e-8576-7a15e81c6ad4">
+		<Name>Февраль</Name>
+		<Code>000000002</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="abda1c9a-7d42-4e6b-9f61-b26d4f905303">
+		<Name>Март</Name>
+		<Code>000000003</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="003ea1f6-40c5-4652-9d27-556c32c28859">
+		<Name>Апрель</Name>
+		<Code>000000004</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="83dff535-03b8-4b19-b298-5bb2f833f1df">
+		<Name>Май</Name>
+		<Code>000000005</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="5a85699a-75f5-4d8b-88bb-95bde34e719a">
+		<Name>Июнь</Name>
+		<Code>000000006</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="47641d02-1d34-4318-9120-e1b3edb6bd6a">
+		<Name>Июль</Name>
+		<Code>000000007</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e6641f64-b939-478c-8018-d9e5af3d6126">
+		<Name>Август</Name>
+		<Code>000000008</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="aaba891e-e3a2-46a1-9aaa-aeb57e584d0a">
+		<Name>Сентябрь</Name>
+		<Code>000000009</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e541ecbb-72a9-4888-9c7f-14821cc4ad86">
+		<Name>Октябрь</Name>
+		<Code>000000010</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="b67befdb-0308-40cc-8483-01179b882fab">
+		<Name>Ноябрь</Name>
+		<Code>000000011</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="c84bdd6a-5536-45ca-807f-ccd172d69784">
+		<Name>Декабрь</Name>
+		<Code>000000012</Code>
+		<Description/>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
