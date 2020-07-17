@@ -46,7 +46,7 @@
 			<CodeAllowedLength>Variable</CodeAllowedLength>
 			<CodeSeries>WholeCatalog</CodeSeries>
 			<CheckUnique>true</CheckUnique>
-			<Autonumbering>true</Autonumbering>
+			<Autonumbering>false</Autonumbering>
 			<DefaultPresentation>AsCode</DefaultPresentation>
 			<Characteristics/>
 			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>

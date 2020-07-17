@@ -113,6 +113,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>СборникПланировщика</Subsystem>
+			<CommonModule>ЗапрещаюВсе</CommonModule>
+			<EventSubscription>ВсеЗапретить</EventSubscription>
 			<CommonForm>Планировщик</CommonForm>
 			<Catalog>ДниНедели</Catalog>
 			<Catalog>Месяцы</Catalog>
